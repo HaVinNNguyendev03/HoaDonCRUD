@@ -1,0 +1,16 @@
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\obj\Debug\NXHoaDonV2.csproj.AssemblyReference.cache
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\obj\Debug\NXHoaDonV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\obj\Debug\NXHoaDonV2.Properties.Resources.resources
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\obj\Debug\NXHoaDonV2.View.HoaDon.resources
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\obj\Debug\NXHoaDonV2.csproj.GenerateResource.cache
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\obj\Debug\NXHoaDonV2.csproj.CoreCompileInputs.cache
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\bin\Debug\NXHoaDonV2.exe.config
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\bin\Debug\NXHoaDonV2.exe
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\bin\Debug\NXHoaDonV2.pdb
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\bin\Debug\EntityFramework.dll
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\bin\Debug\EntityFramework.xml
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\obj\Debug\NXHoaDonV2.csproj.CopyComplete
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\obj\Debug\NXHoaDonV2.exe
+C:\Users\Asus-FPT\Desktop\NXHoaDonV2\NXHoaDonV2\obj\Debug\NXHoaDonV2.pdb
